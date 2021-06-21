@@ -7755,6 +7755,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: #ccc;
 }
+#fh5co-pricing div a div small{
+  color: #a7a7a7;
+}
 #fh5co-pricing .pricing-feature {
   border-top: 10px solid #4fd2c2;
 }
